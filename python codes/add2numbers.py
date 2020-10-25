@@ -1,4 +1,5 @@
-print("Give two numbers :")
+print("Welcome to the Addition Calculator! Please Provide 2 Numbers to begin")
 a = int(input("Enter 1st Number"))
 b = int(input("Enter 2st Number"))
+print("Your New Number is...")
 print(a+b)
